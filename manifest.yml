@@ -1,0 +1,6 @@
+---
+applications:
+  - name: html
+    memory: 128M
+    buildpack: staticfile_buildpack
+    host: html
